@@ -27,5 +27,3 @@ Technologies & Tools
 <p align="center">
   <i>Building, learning, and improving one project at a time.</i>
 </p>
-
-- A number is updated every time, to maintain the streak. (1)
